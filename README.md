@@ -18,7 +18,6 @@
 -   [Tentang Proyek](#-tentang-proyek)
 -   [Fitur Utama](#-fitur-utama)
 -   [Tech Stack](#️-tech-stack)
--   [Screenshots](#-screenshots)
 -   [Developer](#-developer)
 
 ---
@@ -101,22 +100,7 @@ Mencari dan booking kos-kosan di Indonesia seringkali merepotkan dengan banyak p
 
 ---
 
-## 📸 Screenshots
 
-### Sistem Notifikasi WhatsApp
-
-![WhatsApp Notification](docs/images/whatsapp-notification.png)
-_Konfirmasi booking otomatis dikirim via WhatsApp setelah pembayaran berhasil_
-
-> Screenshot menunjukkan sistem notifikasi WhatsApp terintegrasi dengan Twilio yang mengirimkan konfirmasi booking instan dengan:
->
-> -   Kode booking untuk referensi
-> -   Total jumlah pembayaran
-> -   Detail properti dan alamat
-> -   Tanggal check-in
-> -   Sapaan personal
-
----
 
 ## 📜 License
 
@@ -129,8 +113,8 @@ Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) unt
 **Nama Anda**
 
 -   LinkedIn: [Your LinkedIn](#)
--   GitHub: [@yourusername](#)
--   Email: your.email@example.com
+-   GitHub: [@PutraIndikaMH](#)
+-   Email: dikamalik358@gmail.com
 -   Portfolio: [yourportfolio.com](#)
 
 ---
@@ -149,7 +133,7 @@ Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) unt
 
 Jika ada pertanyaan atau butuh bantuan, silakan hubungi:
 
--   📧 Email: your.email@example.com
+-   📧 Email: dikamalik358@gmail.com
 -   💬 Buka issue di GitHub
 -   📱 Connect di LinkedIn
 
@@ -159,6 +143,6 @@ Jika ada pertanyaan atau butuh bantuan, silakan hubungi:
 
 ### ⭐ Jika proyek ini bermanfaat, berikan star!
 
-**Dibuat dengan ❤️ menggunakan Laravel & Modern Web Technologies**
+**Dibuat dengan menggunakan Laravel & Modern Web Technologies**
 
 </div>
