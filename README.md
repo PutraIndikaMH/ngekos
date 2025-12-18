@@ -112,10 +112,10 @@ Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) unt
 
 **Nama Anda**
 
--   LinkedIn: [Your LinkedIn](#)
--   GitHub: [@PutraIndikaMH](#)
+-   LinkedIn: www.linkedin.com/in/putra-indika-malik-hakim
+-   GitHub: PutraIndikaMH
 -   Email: dikamalik358@gmail.com
--   Portfolio: [yourportfolio.com](#)
+-   Portfolio: 
 
 ---
 
