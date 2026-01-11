@@ -115,7 +115,7 @@ Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) unt
 -   LinkedIn: www.linkedin.com/in/putra-indika-malik-hakim
 -   GitHub: PutraIndikaMH
 -   Email: dikamalik358@gmail.com
--   Portfolio: putra-portofolio.vercel.app
+-   Portfolio: https://putra-portofolio.vercel.app/
 
 ---
 
